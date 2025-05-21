@@ -11,7 +11,7 @@ A responsive COVID-19 dashboard built with React.js that visualizes pandemic sta
   * Line chart showing historical trends
   * Bar chart displaying monthly cases
   * Pie chart illustrating current status distribution
-* **Responsive design** - Works seamlessly across desktop and mobile devices
+* **Responsive design** - Works seamlessly across desktop and mobile devicess
 
 ## APIs Used
 
